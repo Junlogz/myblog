@@ -1,6 +1,6 @@
 export default {
     themeConfig: {
-        base:'/docs/',
+        base:"/Junlogz.github.io",
         siteTitle: "blog-z",
         logo: "/edit.png",
         socialLinks: [
