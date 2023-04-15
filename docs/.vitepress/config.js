@@ -1,5 +1,6 @@
 export default {
     themeConfig: {
+        base:'/docs/',
         siteTitle: "blog-z",
         logo: "/edit.png",
         socialLinks: [
