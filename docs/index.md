@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: Junlogz-blog
-  text: 写写记记
-  tagline: 写个bug
+  text: write notes
+  tagline: write program bug
   image:
     src: /update.png
     alt: Junlogz
@@ -18,12 +18,12 @@ hero:
 
 features:
   - icon: ⚡️
-    title: 带薪摸鱼
-    details: 等待下班
+    title: 项目小记
+    details: Project Notes
   - icon: 🖖
-    title: 带薪拉si
-    details: 等待周末
+    title: 学习小记
+    details: Learning Notes
   - icon: 🛠️
-    title: 带薪学习
-    details: 等待发工资
+    title: 八股小记
+    details: Stereotype Notes
 ---

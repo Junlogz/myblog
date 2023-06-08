@@ -1,23 +1,24 @@
 export default {
     themeConfig: {
         base:"/Junlogz.github.io",
-        siteTitle: "blog-z",
+        siteTitle: "Junlogz-Docs",
         logo: "/edit.png",
         socialLinks: [
             { icon: "github", link: "https://github.com/Junlogz" },
         ],
         nav: [
-            { text: "博客", link: "/articles/4.3-4.7小记" },
-            { text: "Guide", link: "/guide/test" },
-            { text: "github", link: "https://github.com/Junlogz" },
             {
-                text: "Menu",
+                text: "Java",
                 items: [
-                    { text: 'Item A', link: '/item-1' },
-                    { text: 'Item B', link: '/item-2' },
+                    { text: 'Java基础', link: '/java/java-base' },
+                    { text: 'Java', link: '/item-2' },
                     { text: 'Item C', link: '/item-3' }
                 ]
-            }
+            },
+            { text: "中间件", link: "/articles/4.3-4.7小记" },
+            { text: "数据库", link: "/guide/test" },
+            { text: "github", link: "https://github.com/Junlogz" },
+
         ],
         sidebar: {
             "/articles/": [
