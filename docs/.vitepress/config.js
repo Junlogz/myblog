@@ -11,12 +11,19 @@ export default {
                 text: "Java",
                 items: [
                     { text: 'Java基础', link: '/java/java-base' },
-                    { text: 'Java', link: '/item-2' },
-                    { text: 'Item C', link: '/item-3' }
+                    { text: 'Jvm', link: '/java/java-jvm' },
+                    { text: 'Spring', link: 'java/java-spring' },
+                    { text: 'Mybatis', link: 'java/java-mybatis' }
                 ]
             },
-            { text: "中间件", link: "/articles/4.3-4.7小记" },
-            { text: "数据库", link: "/guide/test" },
+            {
+                text: "中间件",
+                items: [
+                    { text: "redis", link: '/middleware/redis' }
+                ]
+
+            },
+            { text: "数据库", link: "/sql/mysql" },
             { text: "github", link: "https://github.com/Junlogz" },
 
         ],
