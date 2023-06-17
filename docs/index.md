@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 怎么又上班了
-      link: /articles/4.3-4.7小记
+      link: /java/java-base
     - theme: alt
       text: 怎么还不下班
       link: https://github.com/Junlogz
