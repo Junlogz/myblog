@@ -17,6 +17,26 @@ export default {
                 ]
             },
             {
+                text: "设计模式",
+                items: [
+                    {
+                        items: [
+                            { text: "创建型模式", link: "pattern/creational-pattern" }
+                        ],
+                    },
+                    {
+                        items: [
+                            { text: "结构型模式", link: "pattern/creational-pattern" }
+                        ],
+                    },
+                    {
+                        items: [
+                            { text: "行为模式", link: "pattern/creational-pattern" }
+                        ],
+                    }
+                ],
+            },
+            {
                 text: "中间件",
                 items: [
                     { text: "redis", link: 'middleware/redis' }
